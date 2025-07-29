@@ -29,6 +29,7 @@ The Vrinda Store wants to create an annual sales report so that the owner of the
 
 ## **Dashboard**
 
+![Alt text of the image](https://github.com/AliyaB24/-Store-Data-Analysis/blob/main/Data%20Analysis%20Report.png)
 
 
 
