@@ -6,7 +6,7 @@ Data Analysis and Interactive Dashboard of Vrinda Store
 The Vrinda Store wants to create an annual sales report so that the owner of the Vrinda store can understand their customers and grow more sales.
 
 ## **Dataset used**
-
+- <a href="https://github.com/AliyaB24/Store-Data-Analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Vrinda Store Data</a>
 ## **Questions (KPIs)**
 
 - Compare the sales and orders using single chart.
