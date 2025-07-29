@@ -1,5 +1,5 @@
 # Store-Data-Analysis
-Data Analysis and Interactive Dashboard of Vrinda Store
+Data Analysis and Interactive Dashboard of Vrinda Store using MS Excel
 
 ## **Project Objective**
 
